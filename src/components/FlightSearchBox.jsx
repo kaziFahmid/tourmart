@@ -199,7 +199,7 @@ const FlightSearchBox = () => {
                         '& .MuiFormControlLabel-label': {
                    
                             fontSize: '13px', 
-                            textWrap:"nowrap" // Adjust the font size here
+                           
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
                           color: "#FCAF17",
@@ -209,6 +209,7 @@ const FlightSearchBox = () => {
                       value="female"
                       control={
                         <Radio
+                        
                           sx={{
                             color: "#FCAF17",
                             "&.Mui-checked": { color: "#FCAF17" },
