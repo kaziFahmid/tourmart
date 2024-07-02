@@ -198,7 +198,7 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '13px', 
+                            fontSize: '11px', 
                            
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
@@ -222,8 +222,8 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '13px',  // Adjust the font size here
-                            textWrap:"nowrap" // Adjust the font size here
+                            fontSize: '11px', 
+                            
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
                           color: "#FCAF17",
@@ -246,8 +246,8 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '13px', 
-                            textWrap:"nowrap" // Adjust the font size here // Adjust the font size here
+                            fontSize: '11px', 
+                         
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
                           color: "#FCAF17",
