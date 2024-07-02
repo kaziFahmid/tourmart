@@ -1,0 +1,102 @@
+[
+    {
+        "id": "802",
+        "code": "DAC",
+        "name": "Hazrat Shahjalal Intl Airport",
+        "cityCode": "DAC",
+        "cityName": "Dhaka",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Dhaka,Bangladesh"
+    },
+    {
+        "id": "932",
+        "code": "DXB",
+        "name": "Dubai Intl Airport",
+        "cityCode": "DXB",
+        "cityName": "Dubai",
+        "countryCode": "AE",
+        "countryName": "UNITED ARAB EMIRATES",
+        "address": "Dubai,UNITED ARAB EMIRATES"
+    },
+    {
+        "id": "4402",
+        "code": "CXB",
+        "name": "COXs Bazar Airport",
+        "cityCode": "CXB",
+        "cityName": "Coxs Bazar",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Coxs Bazar,Bangladesh"
+    },
+    {
+        "id": "4404",
+        "code": "JSR",
+        "name": "Jashore Airport",
+        "cityCode": "JSR\r\n",
+        "cityName": "Jashore",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Jashore,Bangladesh"
+    },
+    {
+        "id": "4403",
+        "code": "BZL",
+        "name": "Barishal Airport",
+        "cityCode": "BZL\r\n",
+        "cityName": "Barishal",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Barishal,Bangladesh"
+    },
+    {
+        "id": "4405",
+        "code": "RJH",
+        "name": "Shah Makhdum Airport",
+        "cityCode": "RJH",
+        "cityName": "Rajshahi",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Rajshahi,Bangladesh"
+    },
+    {
+        "id": "4406",
+        "code": "SPD",
+        "name": "Saidpur Airport",
+        "cityCode": "SPD",
+        "cityName": "Saidpur",
+        "countryCode": "BD",
+        "countryName": "BANGLADESH",
+        "address": "Saidpur,Bangladesh"
+    },
+    {
+        "id": "2142",
+        "code": "MCT",
+        "name": "Seeb Intl ",
+        "cityCode": "MCT",
+        "cityName": "Muscat",
+        "countryCode": "OM",
+        "countryName": "OMAN",
+        "address": "Muscat,OMAN"
+    },
+    {
+        "id": "2014",
+        "code": "LHR",
+        "name": "Heathrow",
+        "cityCode": "LON",
+        "cityName": "London",
+        "countryCode": "GB",
+        "countryName": "UNITED KINGDOM",
+        "address": "London,UNITED KINGDOM"
+    },
+    {
+        "id": "5",
+        "code": "JFK",
+        "name": "John F Kennedy Intl ",
+        "cityCode": "NYC",
+        "cityName": "New York",
+        "countryCode": "US",
+        "countryName": "UNITED STATES",
+        "address": "New York,UNITED STATES"
+    }
+]
