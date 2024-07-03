@@ -198,7 +198,7 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '11px', 
+                            fontSize: {xs:'11px',sm:'13px'}, 
                            
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
@@ -222,7 +222,7 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '11px', 
+                          fontSize: {xs:'11px',sm:'13px'}, 
                             
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
@@ -246,7 +246,7 @@ const FlightSearchBox = () => {
                       sx={{
                         '& .MuiFormControlLabel-label': {
                    
-                            fontSize: '11px', 
+                          fontSize: {xs:'11px',sm:'13px'}, 
                          
                           },
                         "& .Mui-checked + .MuiFormControlLabel-label": {
